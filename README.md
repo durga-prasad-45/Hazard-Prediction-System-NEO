@@ -1,4 +1,3 @@
-# Hazard-Prediction-System-NEO
 # 🚀 Near Earth Objects (NEO) Data Analysis — Sprint 1
 
 ## 📌 Project Overview
